@@ -1,4 +1,4 @@
-package core.client;
+package client;
 
 import core.PayByCreditCard;
 import core.PayByEmail;
